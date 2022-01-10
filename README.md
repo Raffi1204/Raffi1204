@@ -1,6 +1,6 @@
 - 👋 Hey guys, I’m @Raffi1204
-- 👀 I’m interested in programming, security, ...
-- 🌱 I’m currently learning Visual Basic
+- 👀 I’m interested in programming, cyber security, ...
+- 🌱 I’m currently learning basically anything I can :P
 
 
 <!---
