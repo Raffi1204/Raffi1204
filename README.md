@@ -1,5 +1,5 @@
 - 👋 Hey guys, I’m @Raffi1204
-- 👀 I’m interested in programming, cyber security, ...
+- 👀 I’m interested in software development, cyber security, ...
 - 🌱 I’m currently learning basically anything I can :P
 
 
